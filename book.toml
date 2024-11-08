@@ -1,10 +1,10 @@
 [book]
-authors = ["chenxuan"]
+authors = ["tangweiyu"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "chenxuan'blog"
-description= "chenxuan'blog"
+title = "Well Note"
+description= "Well Note"
 
 [output.html]
 # defaulr dark theme
@@ -13,7 +13,7 @@ default-theme = "navy"
 additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js", "assets/reference.js", "assets/highlight.js", "theme/pagetoc.js"]
 additional-css = ["assets/utils.css", "theme/pagetoc.css"]
 # set for github icon
-git-repository-url = "https://github.com/chenxuan520/obsidian2web"
+git-repository-url = "https://github.com/tangweiyu/obsidian_web"
 git-repository-icon = "fa-github"
 # set open math support
 mathjax-support = true
